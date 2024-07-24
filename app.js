@@ -164,6 +164,6 @@ app.use(express.static('./public'))
 app.use('/api/v1/books', bookRouter)
 
 
-// CREATE & LISTEN SERVER 
-const port = 4000;
-app.listen(port, () => console.log(`Listening on ${port}`));
+module.exports = app
+
+
