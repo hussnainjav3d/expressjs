@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "name": "To Kill a Mockingbird",
+    "releasedate": "1960-07-11",
+    "pages": 281
+  },
+  {
+    "id": "2",
+    "name": "1984",
+    "releasedate": "1949-06-08",
+    "pages": 328
+  },
+  {
+    "id": "3",
+    "name": "The Great Gatsby",
+    "releasedate": "1925-04-10",
+    "pages": 180
+  },
+  {
+    "id": "4",
+    "name": "The Catcher in the Rye",
+    "releasedate": "1951-07-16",
+    "pages": 214
+  },
+  {
+    "id": "5",
+    "name": "Moby-Dick",
+    "releasedate": "1851-10-18",
+    "pages": 635
+  },
+  {
+    "id": "6",
+    "name": "Pride and Prejudice",
+    "releasedate": "1813-01-28",
+    "pages": 279
+  },
+  {
+    "id": "7",
+    "name": "War and Peace",
+    "releasedate": "1869-01-01",
+    "pages": 1225
+  },
+  {
+    "id": "8",
+    "name": "The Hobbit",
+    "releasedate": "1937-09-21",
+    "pages": 310
+  },
+  {
+    "id": "9",
+    "name": "Brave New World",
+    "releasedate": "1932-08-30",
+    "pages": 268
+  },
+  {
+    "id": "10",
+    "name": "The Lord of the Rings",
+    "releasedate": "1954-07-29",
+    "pages": 1216
+  },
+  {
+    "id": 11,
+    "name": "Test",
+    "releasedate": "20-05-1990",
+    "pages": 190
+  },
+  {
+    "id": 13,
+    "name": "Test",
+    "releasedate": "20-05-1990",
+    "pages": 190
+  },
+  {
+    "id": 13,
+    "name": "Novel Test"
+  },
+  {
+    "id": 14,
+    "name": "Novel Test",
+    "releasedate": "20-09-2029",
+    "page": 122
+  },
+  {
+    "id": 15,
+    "name": "Novel Test",
+    "releasedate": "20-09-2029",
+    "page": 122
+  },
+  {
+    "id": 16,
+    "name": "Novel Test",
+    "releasedate": "20-09-2029",
+    "page": 122
+  },
+  {
+    "id": 17,
+    "name": "Novel Test",
+    "releasedate": "20-09-2029",
+    "page": 122
+  },
+  {
+    "id": 18,
+    "name": "Novel Test",
+    "releasedate": "20-09-2029",
+    "page": 122
+  },
+  {
+    "id": 19,
+    "name": "Novel Test",
+    "releasedate": "20-09-2029",
+    "page": 122
+  },
+  {
+    "id": 20,
+    "name": "Novel Test",
+    "releasedate": "20-09-2029",
+    "page": 122
+  },
+  {
+    "id": 21,
+    "name": "Novel Test",
+    "releasedate": "20-09-2029",
+    "page": 122
+  },
+  {
+    "id": 22,
+    "name": "Novel Test",
+    "releasedate": "20-09-2029",
+    "page": 122
+  }
+]
